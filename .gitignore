@@ -23,7 +23,7 @@ Thumbs.db
 local_settings.py
 db.sqlite3 
 
-.env
+
 
 static/*
 !static/.gitkeep
